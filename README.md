@@ -11,5 +11,5 @@
 # Images
 ![](example.png)
 
-![](example_2.png)
+
 
