@@ -1,6 +1,5 @@
 # Calculator made using Python
-
-
+<p>A Calculator made using Object Oriented programming paradigm</p>
 # Libraries Used
 <ul>
 <li>Tkinter</li>
