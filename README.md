@@ -2,9 +2,11 @@
 
 
 # Libraries Used
-Tkinter
-Pillow
-ttkthemes
+<ul>
+<li>Tkinter</li>
+<li>Pillow</li>
+<li>ttkthemes</li>
+ </ul>
 
 
 # Images
