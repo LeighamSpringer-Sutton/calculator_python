@@ -1,1 +1,1 @@
-# calculator made using python
+# Calculator made using Python
