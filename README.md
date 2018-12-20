@@ -8,7 +8,7 @@
  </ul>
 
 
-# Images
+# Example Image
 ![](example.png)
 
 
