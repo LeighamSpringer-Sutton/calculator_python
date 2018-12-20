@@ -1,6 +1,6 @@
 # Calculator made using Python
 <p>A Calculator made using an Object Oriented approach</p>
-# Libraries Used
+<h1>Libraries Used </h1>
 <ul>
 <li>Tkinter</li>
 <li>Pillow</li>
