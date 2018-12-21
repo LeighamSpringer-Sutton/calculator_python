@@ -180,6 +180,9 @@ class MyFirstGUI:
             self.to_calculate.insert(0,'-')
 
             self.output["text"] = '-' + self.output["text"]
+        elif '-' in  self.output["text"] :
+            self.to_calculate.remove('-')
+            self.output["text"] = self.output["text"].replace('-','')
 
 
 
